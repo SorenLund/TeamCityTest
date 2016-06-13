@@ -13,7 +13,7 @@
         <language>en-US</language>
     </metadata>
     <files>
-        <file src="bin\Debug\Calculator.Lib.dll" target="lib\Calculator.Lib.dll" />
-        <file src="bin\Debug\Calculator.Lib.pdb" target="lib\Calculator.Lib.pdb" />
+        <file src="bin\Release\Calculator.Lib.dll" target="lib\Calculator.Lib.dll" />
+        <file src="bin\Release\Calculator.Lib.pdb" target="lib\Calculator.Lib.pdb" />
     </files>
 </package>
