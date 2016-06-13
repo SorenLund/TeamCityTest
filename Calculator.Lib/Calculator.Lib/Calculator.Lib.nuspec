@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
-    <metadata>
+    <!-- <metadata>
         <id>Calculator.Lib</id>
         <version>4.0.0.0</version>
         <title>Calculator.Lib</title>
@@ -11,7 +11,7 @@
         <description>C:\Git\TeamCityTest\Calculator.Lib\Calculator.Lib\Properties\AssemblyInfo.cs</description>
         <copyright>None</copyright>
         <language>en-US</language>
-    </metadata>
+    </metadata> -->
     <files>
         <file src="bin\Release\Calculator.Lib.dll" target="lib\Calculator.Lib.dll" />
         <file src="bin\Release\Calculator.Lib.pdb" target="lib\Calculator.Lib.pdb" />
