@@ -10,13 +10,19 @@ namespace Calculator.Lib
     {
         public int Add(int a, int b)
         {
-            var res = a + b;
+            var arg1 = a;
+            var arg2 = b;
+
+            var res = arg1 + arg2;
             return res;
         }
 
         public int Subtract(int a, int b)
         {
-            var res = a - b;
+            var arg1 = a;
+            var arg2 = b;
+
+            var res = arg1 - arg2;
             return res;
         }
     }
