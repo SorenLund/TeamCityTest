@@ -26,6 +26,11 @@
 &nbsp;&nbsp;&nbsp;
         <asp:Button ID="btnSubtract" runat="server" CssClass="buttons" OnClick="btnSubtract_Click" Text="-" />
     
+        <br />
+        <asp:Button ID="btnMult" runat="server" CssClass="buttons" OnClick="btnMult_Click" Text="*" />
+&nbsp;&nbsp;&nbsp;
+        <asp:Button ID="btnDiv" runat="server" CssClass="buttons" OnClick="btnDiv_Click" Text="/" />
+    
     </div>
     </form>
 </body>
